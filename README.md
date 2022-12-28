@@ -22,7 +22,7 @@ Key functions present in this version:
 -> Cell Spawn Transforms
 -> Cell Growth
 -> Cell Division
--> Color Oscllation
+-> Color Oscillation
 
 Note: Some variables might not be in use in this version and might be artifacts.
 
