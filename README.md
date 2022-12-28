@@ -47,6 +47,8 @@ On Windows, follow these steps:
 8. When building the project for the first time, the editor appears to reinstate 600 megabytes worth of deleted starter content to the project.
 9. The project may say that modules are missing and you will need to build the project the first time which should take only a few minutes.
 
+To run the program press the play button in the editor menu. Use the small arrow to select Standalone Game, where performance is superior to the editor.
+
 Basic Controls:
 --------------
 Navigation: Mouse, Left Click and WASD keyboard
