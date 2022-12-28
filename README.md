@@ -41,7 +41,7 @@ Key functions present in this version:
 -> Cell Division
 -> Color Oscllation
 
-Note: Some variables might not be in use in this versions and might be artifacts.
+Note: Some variables might not be in use in this version and might be artifacts.
 
 For more information please see the GitHub page for publication links to be used for attribution.
 https://github.com/RichardMatzko/UM3D_Vers_SimplestCell
