@@ -12,6 +12,22 @@ WARNING: Please be aware that using this incomplete software is at your own risk
 
 If you can demonstrate improved performance for this work and set of functions please contact me and let me know how you achieved it.
 
+About
+-----
+This project was conceived of for Synthetic Biology CAD as a PhD candidate.
+
+This is a simplified version of MultiCellRM for performance testing. It removes many features and demonstrates performance of cells in terms of proliferation (growth and cell division). The full version (unreleased) possesses a Cell Editor and more parameters.
+
+Key functions present in this version:
+-> Cell Spawn Transforms
+-> Cell Growth
+-> Cell Division
+-> Color Oscllation
+
+Note: Some variables might not be in use in this version and might be artifacts.
+
+For more information please read https://link.springer.com/chapter/10.1007/978-3-031-07802-6_17.
+
 Installation
 ------------
 This software was developed in Windows 10/11. Projects may be cross compatible with other operating systems. This has not been confirmed.
@@ -30,21 +46,6 @@ On Windows, follow these steps:
 7. Double click the project: UM3D_Vers_SimplestCell
 8. When building the project for the first time, the editor appears to reinstate 600 megabytes worth of deleted starter content to the project.
 9. The project may say that modules are missing and you will need to build the project the first time which should take only a few minutes.
-
-About
------
-This is a simplified version of MultiCellRM for performance testing. It removes many features and demonstrates performance of cells in terms of proliferation (growth and cell division). The full version (unreleased) possesses a Cell Editor and more parameters.
-
-Key functions present in this version:
--> Cell Spawn Transforms
--> Cell Growth
--> Cell Division
--> Color Oscllation
-
-Note: Some variables might not be in use in this version and might be artifacts.
-
-For more information please see the GitHub page for publication links to be used for attribution.
-https://github.com/RichardMatzko/UM3D_Vers_SimplestCell
 
 Basic Controls:
 --------------
