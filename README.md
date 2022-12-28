@@ -16,7 +16,7 @@ About
 -----
 This project was conceived of for Synthetic Biology CAD as a PhD candidate.
 
-This is a simplified version of MultiCellRM for performance testing. It removes many features and demonstrates performance of cells in terms of proliferation (growth and cell division). The full version (unreleased) possesses a Cell Editor and more parameters.
+This is a simplified version of UnrealMulticell3D for performance testing. It removes many features and demonstrates performance of cells in terms of proliferation (growth and cell division). The full version (unreleased) possesses a Cell Editor and more parameters.
 
 Key functions present in this version:
 -> Cell Spawn Transforms
