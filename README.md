@@ -1,10 +1,12 @@
 # UnrealMulticell3D
 
-Software: UnrealMulticell3D (UM3D)
+Software: UnrealMulticell3D (UM3D) version "SimplestCell".
 
-Author: Richard Matzko
+Author: Richard Oliver Matzko
 
 License: CC-BY
+
+Attribute via reference to: https://link.springer.com/chapter/10.1007/978-3-031-07802-6_17
 
 WARNING: Please be aware that using this incomplete software is at your own risk. The cells will not stop proliferating by themselves, you must close the application or press the reset button in a timely fashion. This version was focused towards performance optimization.
 
@@ -23,7 +25,7 @@ On Windows, follow these steps:
 2. Register and log in.
 3. Go to Unreal Engine (UE) -> Library in Epic Games Launcher
 4. Install UE version 4.26.2
-5. Your documents folder should have a folder called "Unreal Projects". If not create it and extract the UM3D_Vers_SimplestCell folder from UM3D_Vers_SimplestCell2.zip into Documents/Unreal Projects.
+5. Your documents folder should have a folder called "Unreal Projects". If not create it and extract the UM3D_Vers_SimplestCell folder from UM3D_Vers_SimplestCell.zip into Documents/Unreal Projects.
 6. Navigate back to your Unreal Engine Library in Epic Games Launcher.
 7. Double click the project: UM3D_Vers_SimplestCell
 8. When building the project for the first time, the editor appears to reinstate 600 megabytes worth of deleted starter content to the project.
