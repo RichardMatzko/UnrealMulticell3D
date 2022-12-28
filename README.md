@@ -18,7 +18,7 @@ This project utilized (UE4) Unreal Engine version 4.26.2 and should be opened us
 
 On Windows, follow these steps:
 
-1. Download UM3D_Vers_SimplestCell2.zip
+1. Download UM3D_Vers_SimplestCell.zip
 1. Install Epic Games Launcher https://store.epicgames.com/en-US/download
 2. Register and log in.
 3. Go to Unreal Engine (UE) -> Library in Epic Games Launcher
